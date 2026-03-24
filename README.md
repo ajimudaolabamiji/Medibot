@@ -1,8 +1,8 @@
-# Medicabot
-Medicabot is an intelligent chatbot designed to provide quick, reliable medical assistance to users. It helps answer basic health-related questions, offers symptom guidance, and directs users to appropriate next steps while promoting safe and informed decision-making.
+# Medibot
+Medibot is an intelligent chatbot designed to provide quick, reliable medical assistance to users. It helps answer basic health-related questions, offers symptom guidance, and directs users to appropriate next steps while promoting safe and informed decision-making.
 
 
-# Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
+# A-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
 
 # How to run?
 ### STEPS:
